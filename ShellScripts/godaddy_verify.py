@@ -4,15 +4,6 @@ Spyder Editor
 
 This is a temporary script file.
 """
-### NG
-# from flask import Flask
-# app = Flask(__name__)
-# @app.route("/")
-# def hello():
-#     return "vd16p2mu2gv9bn2plggrap1shb"
-# if __name__ == '__main__':
-#     from waitress import serve
-#     serve(app, host="10.10.3.21", port="5880")
 
 from http.server import BaseHTTPRequestHandler, HTTPServer, SimpleHTTPRequestHandler
 import time
